@@ -131,3 +131,21 @@ Internetwork:
     -Una internetwork, también conocida como red de redes, es una malla de redes interconectadas que cubre necesidades de comunicación humana.
     -Puede incluir redes privadas y públicas, como las pertenecientes a organizaciones o empresas.
     -Internet es el ejemplo más conocido de una internetwork, formada por la interconexión de redes ISP.
+
+
+3. ¿Cuál es la diferencia entre INTERNETWORK E INTERNET?
+- INTERNETWORK (Red de redes): Describe la idea de conectar varias redes diferentes para permitir el intercambio de datos y puede estar compuesta por 
+redes privadas o públicas para uso exclusivo.
+
+- INTERNET: Es la red pública más grande que existe, y es un ejemplo de Internetwork ya que es la interconexión de diferentes redes y su término hace 
+referencia a la red global cotidiana en la vida humana para acceder a diversos servicios.
+
+4. Describir la diferencia entre Tarjeta de interfaz de red (NIC), puerto físico e interfaz de red.
+- Tarjeta de Interfaz de Red (NIC): Proporciona la interfaz física entre un dispositivo y la red, permite que el dispositivo pueda conectarse a una 
+red inalámbrica o cableada.
+
+- Puerto Físico: Conecta el medio de transmisión como cables de fibra óptica o Ethernet. Establecen conexión física entre dispositivos.
+
+- Interfaz de red: Es el puerto que se conecta a una red individual. Es decir, si un router conecta dos redes, tendrá dos interfaces para cada red. 
+Las interfaces permiten la comunicación entre redes ya sean conexiones físicas o lógicas.
+ 
