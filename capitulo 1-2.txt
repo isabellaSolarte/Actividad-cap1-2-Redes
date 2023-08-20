@@ -1,0 +1,9 @@
+1. Responda brevemente, ¿Qué son los datos? ¿Qué es una red de datos? ¿Qué
+es una red convergente?
+
+-¿Qué son los datos?: Es la información que se transfiere por medio de una red de datos.
+
+-¿Qué es una red de datos?: Un red de datos hace referencia a sistemas interconectados de dispositivos tecnológicos 
+    que permiten la transferencia de información entre ellos.
+
+-¿Qué es una red convergente?: Hace referencia a la tecnología que permite consolidar redes dispersas en una sola plataforma.
