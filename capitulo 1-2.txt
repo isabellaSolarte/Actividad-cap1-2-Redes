@@ -181,3 +181,22 @@ Las interfaces permiten la comunicación entre redes ya sean conexiones físicas
 
     - MODELO DE REFERENCIA: Es una reprensentación general de las capas involucradas. Proporciona un marco conceptual genérico que puede aplicarse a diversos tipos de protocolos. Este modelo no
     está diseñado para una implementación detallada sino para facilitar una comprensión clara de los procesos.
+9. Describir la función de cada capa en los dos modelos de red: TCP/IP y OSI.
+
+
+MODELO TCP/IP:
+
+    - APLICACIÓN: Representa datos para el usuario más el control de codificación y de diálogo.
+    - TRANSPORTE: Admite la comunicación entre distintos dispositivos de distintas redes.
+    - INTERNET: Determina la mejor ruta a través de la red.
+    - ACCESO A LA RED: Controla los dispositivos del hardware y los medios que forman la red.
+
+MODELO OSI:
+
+    - APLICACIÓN: Proporciona los medios para la conectividad de extremo a extremo entre individuos que usan redes de datos.
+    - PRESENTACIÓN: Representa los datos transferidos entre los servicios de la capa de aplicación.
+    - SESIÓN: Proporciona servicios de la capa de Presentación para organizar su diálogo y adminiistrar el intercambio de datos
+    - TRANSPORTE: Define los servicios para segmentar los datos para las comunicaciones entre dispositivos finales.
+    - RED: Proporciona servicios para intercambiar datos individualas en la red entre dispositivos.
+    - ENLACE DE DATOS: Describe los métodos para intercambiar tramas de datos en un medio común.
+    - FISICA: Describe los medios para mantener y desactivar conexiones físicas para la transmisión de bits entre dispositivos.
