@@ -7,3 +7,36 @@ es una red convergente?
     que permiten la transferencia de información entre ellos.
 
 -¿Qué es una red convergente?: Hace referencia a la tecnología que permite consolidar redes dispersas en una sola plataforma.
+
+2. Describir las características de las arquitecturas de red: tolerante a fallas, escalabilidad, calidad del servicio y seguridad. 
+    Mostrar sus respectivos ejemplos.
+
+-Tolerante a fallas: Esta red limita el impacto de una falla  ya sea de software o de hardware. 
+                Este tipo de redes se caracterizan por tener enlaces o rutas redundantes entre el origen y destino del mensaje, con el fin
+                de garantizar que los mensajes se puedan enrutar de forma instantánea si algún enlace o ruta falla.
+                Se tomará como ejemplo de este ripo de red al internet en sus comienzos ya que este era respaldado por el DoD
+                (Departamento de Defensa de Estados Unidos). Este Departamento tenía como objetivo tener un medio de comunicación
+                que pudiera soportar la destrucción de numerosos sitios de transmisión sin interumpir el servicio; dicho objetivo lo lograron
+                mediante rutas o enlaces redundantes en la red.
+
+-Escalabilidad: Una red que sea escalable tiene la capacidad de expandirese rápidamente para adminitr nuevos usuarios sin afectar el rendimiento
+                del servicio. Para que una red tenga esta capacidad debe existir un diseño jerárquico en capas, de esta manera es posible que cada usuario y 
+                operador se puedan insertar sin causar conflictos en toda la red. Un ejemplo es el internet actual el cual se expande
+                con gran facilidad, todo esto gracias a la función del diseño de los portocolos y tecnologías sobre las cuales está construido
+                Internet. Además este cuenta con jerarquía en capas para diferentes servicios lo que permite que los operadores y usuarios 
+                mantengan una comunicación directa sin ser interrumpida por otra.
+
+-Calidad del servicio: Con el desarrollo de nuevas aplicaciones se ha visto la necesidad de que transmisiones de voz y video tengan un nivel de 
+                        calidad consistente y sin interrumciones. Es por esto que La calidad de estos servicios se mide con la calidad de 
+                        experimentar la misma presentación de audio y video en persona. Un ejemplo de esto son los mecanismos para administrar
+                        el tráfico en las redes. Ya que la congestión se genera cuando la demanda de recursos de red supera la capacida de esta.
+                        Gracias a estos mecanismos se asegura que los paquetes de datos lleguen a tiempo y en orden.
+
+-Seguridad: Un red debe ser segura ya que se intercambia todo tipo de información confidencial. Para lograr esto los administradores pueden proteger la red con seguridad tanto 
+            hardware como software para evitar el acceso de terceros a redes privadas con el objetivo de proteger la información. Un ejemplo 
+            de redes que necesitan un amplio sistema de seguridad con las organizaciones gubernamentales o bancarias, ya que estas manejan 
+            un tráfico bastante importante de información críctica y que si se da un mal tratamiento de estos datos llevaría a daños permanentes
+            a las empresas y a los clientes.
+
+                
+
