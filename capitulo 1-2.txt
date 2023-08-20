@@ -162,4 +162,24 @@ Las interfaces permiten la comunicación entre redes ya sean conexiones físicas
     los datos sean entregados de manera coherente y ordenada.En pocas palabras, una PDU es una porción de datos que contiene la
     información necesaria para la comunicación en una red. Dependiendo del protocolo y del nivel de la red en el que se encuentre, 
     una PDU puede tener diferentes nombres y estructuras.
-    
+
+7. Explicar la función de los protocolos en las comunicaciones de redes y para qué es el proceso de encapsulamiento de los datos 
+(ilustrar el nombre que adopta cada PDU en cada capa del modelo TCP/IP mediante un dibujo).
+
+La función de los protocolos en las comunicaciones de redes es establecer reglas que permitirán a los dispositivos de una red comunicarse de manera efectiva. 
+En redes son como un conjunto de normas que define como se va a llevar a cabo la comunicación entre los participantes, de esta manera, se asegura que los datos se transmitan de manera 
+confiable.
+Algunas funciones:
+- Establecer reglas de comunicación.
+- Segmentación.
+- Gestión de datos.
+El proceso de encapsulamiento de los datos es para el funcionamiento de la comunicación en redes y asegura que los datos se transmitan de manera efectiva entre dispositivos. Como se puede ver 
+en la imagen.
+
+8. Describir la diferencia entre los modelos de protocolo y modelos de referencia.
+
+- MODELO DE PROTOCOLO: Proporciona una descripción específica de la estructura de una suite de protocolos para interconectar redes. Cada capa tiene una función definida, y el modelo 
+se alinea esta estructura.
+
+- MODELO DE REFERENCIA: Es una reprensentación general de las capas involucradas. Proporciona un marco conceptual genérico que puede aplicarse a diversos tipos de protocolos. Este modelo no
+ está diseñado para una implementación detallada sino para facilitar una comprensión clara de los procesos.
