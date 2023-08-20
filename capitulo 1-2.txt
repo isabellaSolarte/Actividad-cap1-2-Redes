@@ -38,5 +38,30 @@ es una red convergente?
             un tráfico bastante importante de información críctica y que si se da un mal tratamiento de estos datos llevaría a daños permanentes
             a las empresas y a los clientes.
 
-                
 
+3. Investigar qué son las redes orientadas y no orientadas a la conexión.
+- REDES ORIENTADAS A LA CONEXIÓN: Son aquellas que ofrecen servicios como el sistema telefónico conmutado por circuito, donde se garantiza la calidad y 
+                                consistencia de los mensajes transmitidos. Por otro lado, el proveedor de servicios puede cargar a los usuarios de la red 
+                                durante el período de tiempo en que la conexión se encuentra activa.
+
+- REDES NO ORIENTADAS A LA CONEXIÓN: Se envían paquetes individuales que se enrutan de manera independiente. Por tanto, hay una mayor flexibilidad para
+                                     enrutar y adaptarse a cambios en la red, y menor sobrecarga ya que no se requiere establecer la conexión.
+
+
+Se concluye que dependiendo de las necesidades de la aplicación se selecciona entre redes orientadas a la conexión y no orientadas a la conexión. Ya que
+la primeras garantizan la entrega y orden de los datos, al contrario de las no orientadas a la conexión que se adecuan a la flexibilidad de las aplicaciones.
+
+                
+4. Describa que es la calidad del servicio y responda: ¿Por qué importa la calidad del servicio en una red de datos?
+
+La calidad de servicio hace referencia al rendimiento en la que es capaz un red en entregar datos, es decir, garantizar una buena experiencia al usuario 
+independiente del tipo de tráfico en una red. La calidad del servicio importa en una red de datos debido a:
+
+    -  Se debe ofrecer una experiencia fluida sin interrupciones, por ejemplo, las aplicaciones como transmisiones de voz y video en tiempo real que requieren 
+    un ancho de banda consistente para dar una buena experiencia al usuario.
+
+    -  Es importante priorizar los paquetes de voz para evitar retrasos, por ejemplo, una red que transporta voz y datos, la cual necesita garantizar una 
+    comunicación clara.
+    
+    -  Asigna eficientemente los recursos de red para que sean usados de manera adecuada en cada tipo de tráfico, de esta manera no se afecta el rendimiento 
+    general.
