@@ -1,3 +1,5 @@
+PRIMER CAPÍTULO
+
 1. Responda brevemente, ¿Qué son los datos? ¿Qué es una red de datos? ¿Qué
 es una red convergente?
 
@@ -65,3 +67,67 @@ independiente del tipo de tráfico en una red. La calidad del servicio importa e
     
     -  Asigna eficientemente los recursos de red para que sean usados de manera adecuada en cada tipo de tráfico, de esta manera no se afecta el rendimiento 
     general.
+
+SEGUNDO CAPÍTULO
+1. Describir la estructura de una red, incluidos los dispositivos, medios y servicios necesarios para lograr comunicaciones exitosas.
+
+Una red se compone de varios elementos que colaboran entre si para permitir que la comunicación se realice de forma exitosa.
+Estos componentes incluyen dispositivos, medios y servicios. A continuación, se describe cada uno de estos aspectos:
+
+COMPONENTES DE RED:
+
+-Dispositivos y Medios: Los dispositivos y los medios son los elementos físicos o hardware de la red. Los dispositivos son componentes
+                       como computadoras, impresoras, teléfonos VoIP, cámaras de seguridad y dispositivos móviles. 
+                       Los medios son los canales a través de los cuales se transmiten los datos, como cables metálicos, fibras ópticas y transmisión inalámbrica (ondas electromagnéticas).
+
+-Servicios y Procesos: Los servicios y procesos son el software que se ejecuta en los dispositivos conectados a la red. 
+                      Los servicios son programas de comunicación que proporcionan información en respuesta a solicitudes, como servicios de 
+                      correo electrónico y hosting web. Los procesos son funciones que permiten direccionar y trasladar mensajes a través de la red, como la retransmisión 
+                      de señales, la administración de rutas y la priorización de mensajes según la calidad de servicio.
+
+Dispositivos finales y su rol: Los dispositivos finales, también llamados hosts, son aquellos con los que las personas interactúan 
+                                directamente. Estos dispositivos sirven como interfaz entre la red humana y la red de comunicación subyacente. 
+                                Algunos ejemplos incluyen computadoras, impresoras de red, teléfonos VoIP, cámaras de seguridad y dispositivos móviles. 
+                                Los dispositivos finales pueden funcionar como clientes, servidores o ambos, según el software instalado en ellos.
+
+Dispositivos intermedios y su rol: Los dispositivos intermedios son aquellos que proporcionan conectividad y gestionan el flujo de 
+                                    datos en la red. Estos dispositivos trabajan detrás de escena para garantizar que los datos fluyan de 
+                                    manera eficiente y segura.Algunos ejemplos son:            
+
+                        -Dispositivos de acceso a la red: Hubs, switches y puntos de acceso inalámbricos que conectan dispositivos finales a la red.
+                        -Dispositivos de internetworking: Routers que conectan diferentes redes y determinan la ruta óptima para los datos.
+                        -Servidores de comunicación y módems: Facilitan la comunicación y la conexión a la red.
+                        -Dispositivos de seguridad: Firewalls que protegen la red de amenazas externas.
+
+Medios de Red: Los medios de red son los canales a través de los cuales se transmiten los datos. Los principales tipos de medios son:
+
+        -Hilos metálicos: Utilizan cables con impulsos eléctricos para transmitir datos.
+        -Fibras ópticas: Emplean pulsos de luz para transmitir datos a través de fibras de vidrio o plástico.
+        -Transmisión inalámbrica: Utiliza ondas electromagnéticas para la transmisión, como en redes Wi-Fi y comunicación satelital.
+
+2. Comparar y contrastar los siguientes términos: RED, LAN, WAN, INTERNETWORK E INTERNET.
+
+Red:
+    -Una red es un conjunto de dispositivos interconectados que pueden comunicarse y compartir recursos.
+    -Puede abarcar desde una pequeña red local hasta una red global interconectada, como Internet.
+    -El término "red" es un concepto general que engloba diversos tipos de redes, como LAN, WAN e INTERNET.
+
+LAN (Red de Área Local):
+    -Una LAN es una red de pequeña escala que cubre un área geográfica limitada, como un edificio o un campus.
+    -Administrada por una única organización y controlada por políticas internas de seguridad y acceso.
+    -Conexiones de alta velocidad y baja latencia, ideal para compartir recursos locales.
+
+WAN (Red de Área Amplia):
+    -Una WAN abarca distancias geográficas más amplias y conecta múltiples LAN a través de proveedores de servicios de telecomunicaciones.
+    -Permite la comunicación entre ubicaciones geográficamente dispersas.
+    -Control administrativo dividido entre la organización y el proveedor de servicios de telecomunicaciones.
+
+Internet:
+    -Internet es una red global de redes interconectadas que permite la comunicación a nivel mundial.
+    -Está compuesta por redes de proveedores de servicios de Internet (ISP) interconectadas.
+    -Accesible para millones de usuarios y utiliza tecnologías y protocolos estandarizados para asegurar la comunicación efectiva.
+
+Internetwork:
+    -Una internetwork, también conocida como red de redes, es una malla de redes interconectadas que cubre necesidades de comunicación humana.
+    -Puede incluir redes privadas y públicas, como las pertenecientes a organizaciones o empresas.
+    -Internet es el ejemplo más conocido de una internetwork, formada por la interconexión de redes ISP.
