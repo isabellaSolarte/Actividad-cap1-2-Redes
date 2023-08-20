@@ -148,4 +148,18 @@ red inalámbrica o cableada.
 
 - Interfaz de red: Es el puerto que se conecta a una red individual. Es decir, si un router conecta dos redes, tendrá dos interfaces para cada red. 
 Las interfaces permiten la comunicación entre redes ya sean conexiones físicas o lógicas.
- 
+
+5. ¿Por qué se dice que un protocolo es independiente de la tecnología?
+    Un protocolo se considera independiente de la tecnología porque su función y descripción se centran en qué debe hacerse en una 
+    comunicación específica, en lugar de cómo se debe hacer. Esto significa que el protocolo establece las reglas y las funciones que deben 
+    seguirse durante la comunicación, pero no prescribe la tecnología, el software o los detalles técnicos específicos 
+    que deben emplearse para implementar esas reglas.
+
+6. Consultar y explicar brevemente qué es una Unidad de Datos del Protocolo (PDU).
+    
+    Una Unidad de Datos del Protocolo (PDU) es una unidad básica de información que se transmite a través de una red utilizando un 
+    protocolo de comunicación. Las PDUs son utilizadas para encapsular y transportar datos entre dispositivos en una red, asegurando que 
+    los datos sean entregados de manera coherente y ordenada.En pocas palabras, una PDU es una porción de datos que contiene la
+    información necesaria para la comunicación en una red. Dependiendo del protocolo y del nivel de la red en el que se encuentre, 
+    una PDU puede tener diferentes nombres y estructuras.
+    
