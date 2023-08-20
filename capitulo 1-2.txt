@@ -162,4 +162,20 @@ Las interfaces permiten la comunicación entre redes ya sean conexiones físicas
     los datos sean entregados de manera coherente y ordenada.En pocas palabras, una PDU es una porción de datos que contiene la
     información necesaria para la comunicación en una red. Dependiendo del protocolo y del nivel de la red en el que se encuentre, 
     una PDU puede tener diferentes nombres y estructuras.
-    
+
+7. Explicar la función de los protocolos en las comunicaciones de redes y para qué es el proceso de encapsulamiento de los datos 
+    (ilustrar el nombre que adopta cada PDU en cada capa del modelo TCP/IP mediante un dibujo).
+
+    -Función de los Protocolos en las Comunicaciones de Red:
+        Los protocolos desempeñan un papel fundamental en las comunicaciones de red al establecer reglas y normas para la interacción 
+        entre dispositivos y sistemas en una red. Funcionan como un conjunto de directrices que permiten que los dispositivos se comuniquen 
+        de manera efectiva y coherente.
+    - Proceso de Encapsulamiento de los Datos: El proceso de encapsulamiento de datos se refiere a la práctica de agregar información 
+        adicional (cabeceras y posiblemente tráilers) a los datos originales antes de enviarlos a través de una red. Este proceso es 
+        fundamental en las comunicaciones de red y se relaciona directamente con el uso de protocolos.Cuando los datos se transmiten 
+        de una computadora a otra a través de una red, se encapsulan en múltiples capas de información adicional, cada una de las cuales 
+        corresponde a una capa específica del modelo OSI (Open Systems Interconnection). Cada capa agrega su propia cabecera que 
+        contiene información necesaria para el funcionamiento y el manejo de la comunicación en esa capa particular. A medida que los 
+        datos se mueven a través de la red, estas capas adicionales son "apiladas" una encima de la otra en forma de paquetes.
+        
+    ILUSTRACIÓN EN: https://drive.google.com/file/d/1lH3vf2QDlCA5RNoa_51tJIIUbobn5BMr/view?usp=sharing
